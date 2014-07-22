@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\Training\DotNet\StoreManagement" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="StoreManagement" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="StoreManagementService.asmx" publishTime="07/22/2014 12:06:31" />
+    <file relUrl="bin/StoreManagement.dll" publishTime="07/22/2014 18:20:40" />
+    <file relUrl="bin/StoreManagement.pdb" publishTime="07/22/2014 18:20:39" />
+    <file relUrl="Web.config" publishTime="07/22/2014 18:20:40" />
+  </publishProfile>
+</publishData>

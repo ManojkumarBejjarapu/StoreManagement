@@ -1,0 +1,4 @@
+E:\Training\DotNet\Project\StoreManagement\StoreManagement\bin\StoreManagement.dll
+E:\Training\DotNet\Project\StoreManagement\StoreManagement\bin\StoreManagement.pdb
+E:\Training\DotNet\Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.dll
+E:\Training\DotNet\Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.pdb
