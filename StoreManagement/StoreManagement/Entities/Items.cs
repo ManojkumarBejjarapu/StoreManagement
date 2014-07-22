@@ -11,7 +11,7 @@ namespace SuperMarket.Classes
 {
     public class Items
     {
-        const string SUCCESS_MSG = "Successfully {0} a book";
+        const string SUCCESS_MSG = "Successfully {0}  book";
         const string Failure_MSG = "Unable to {0} a book";
         public int Id { get; set; }
         public string Name { get; set; }
